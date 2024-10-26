@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "pack for testing objects!",
+   "name": "My test pack",
+   "uuid": "b0a7fa32-52a6-4fbe-9528-93857215c86c",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 21, 2]
+  },
+ "modules": [
+   {
+     "description": "testing pack!",
+     "type": "resources",
+     "uuid": "7d0fb718-5f69-4db0-90cc-6c5516ae018c",
+     "version": [1, 0, 0]
+   }
+ ]
+} 
