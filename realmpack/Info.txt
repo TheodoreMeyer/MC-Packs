@@ -1,4 +1,4 @@
 Info for realmpack
 
-alpha.ogg is Throne room and end title
+credits.ogg is Throne room and end title
 anvil_use.ogg is crepper
