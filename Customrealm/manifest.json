@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "pack for my realm!",
+   "name": "the realm pack",
+   "uuid": "141dd4f3-56a6-4541-a8b5-2dd4d904a20f",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 21, 3]
+  },
+ "modules": [
+   {
+     "description": "realm pack!",
+     "type": "resources",
+     "uuid": "7cf38b3c-a872-4dc2-a414-339a1beea12b",
+     "version": [1, 0, 0]
+   }
+ ]
+} 
