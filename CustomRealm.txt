@@ -1,0 +1,7 @@
+THIS IS NOT INCLUDED IN THE FINAL PACK, ONLY NOTES
+
+Music:
+    Throneroom & End title is credits.ogg and end.ogg (music.game.end folder)
+    March of the resistance is nether.ogg (music.game.nether folder)
+    Imperial March is emerge.ogg (mob.warden folder)
+    Cantina band is ward.ogg (music.game folder)
