@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "US English Only! This pack changes the words in en_us.",
+        "name": "Better words",
+        "uuid": "dc36c86a-4d02-4b6b-8438-46c2efb1dedf",
+        "version": [1, 0, 1],
+        "min_engine_version": [ 1, 21, 20 ]
+    },
+    "modules": [
+        {
+            "description": "US English Only! This pack changes many words in en_us.",
+            "type": "resources",
+            "uuid": "81833a99-d01f-4642-a15f-bc18138d7e11",
+            "version": [1, 0, 1]
+        }
+    ]
+}
