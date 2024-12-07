@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "all mobs are aggressive  now, making farming harder.",
+        "name": "Aggresive mobs behavior",
+        "uuid": "be70733f-e9f3-41b5-8695-43083c34e01b",
+        "version": [ 1, 0, 1 ],
+        "min_engine_version": [ 1, 21, 40 ]
+    },
+    "modules": [
+        {
+            "description": "aggressive vanilla mobs",
+            "type": "data",
+            "uuid": "ee696f38-041b-424e-a2c3-83201a92f83e",
+            "version": [1, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "version": [0, 0, 1]
+        }
+    ]
+}
